@@ -1,6 +1,0 @@
-#ifndef FLOWINTERFACE_H_INCLUDED
-#define FLOWINTERFACE_H_INCLUDED
-
-void RunProgram();
-
-#endif // FLOWINTERFACE_H_INCLUDED
