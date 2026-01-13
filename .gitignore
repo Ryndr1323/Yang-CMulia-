@@ -1,5 +1,20 @@
+# Extension
 *.zip
-Build1.exe
-Build2.exe
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Folder
+Build Logs/
+cache/
+zipped/
+
+# File
 Design Future.txt
-Build Logs
+
+# Editor
+.vscode/
